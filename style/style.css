@@ -101,7 +101,7 @@ html, body {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background: url("D:/Download Internet/Untitled design (2).jpg");
+  background: url("img/bg.jpg");
   background-size: cover;        /* gambar menutupi seluruh area */
   background-position: center;   /* posisi gambar di tengah */
   background-repeat: no-repeat;  /* gambar tidak diulang */
@@ -502,4 +502,5 @@ td i {
     padding: 32px 10px;
     box-sizing: border-box;
   }
+
 }
